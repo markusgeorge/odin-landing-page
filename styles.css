@@ -1,0 +1,35 @@
+*{
+    background-color: #1F2937;
+}
+
+
+h1{
+color: #F9FAF8;
+size: 48px;
+
+}
+
+a {
+    color: #E5E7EB;
+    size: 18px;
+}
+
+.first-container{
+    border: 1px solid green;
+    
+    
+}
+
+.first-container-title-and-links {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+}
+
+.first-container-image {
+    border: 1px solid black;
+}
+
+.first-container-bottom {
+    border: 1px solid black;
+}
